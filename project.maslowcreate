@@ -13,12 +13,13 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1486,
-                    "y": 173,
+                    "y": 167.5,
                     "ioValues": []
                 }
             ],
             "allConnectors": [],
             "fileTypeVersion": 1
         }
-    ]
+    ],
+    "circleSegmentSize": 2
 }
